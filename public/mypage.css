@@ -27,7 +27,8 @@ footer {
 }
 
 header {
-	background: hsla(200, 10%, 70%, .5);
+	background: #a2b5cd;
+	/*background: hsla(200, 10%, 70%, .5);*/
 	min-height: 50px;
 	padding: 10px 20px;
 	width: 100%;
@@ -44,13 +45,16 @@ section {
 }
 
 nav {
-	background: hsla(300, 60%, 20%, .9);
+	background: #ff7f50;
+	/*background: hsla(300, 60%, 20%, .9);*/
 	padding: 1%;
+	padding-top: 5%;
 	width: 220px;
 	order: 1;
 }
 article {
-	background: hsla(120, 50%, 50%, .9);
+	background: #009acd;
+	/*background: hsla(120, 50%, 50%, .9);*/
 	padding: 5%;
 	margin-left: 2%;
 	margin-right: 2%;
@@ -58,7 +62,8 @@ article {
 	order: 2;
 }
 aside {
-	background: hsla(20, 80%, 80%, .9);
+	background: #ff7f50;
+	/*background: hsla(20, 80%, 80%, .9);*/
 	padding: 0.5%;
 	width: 220px;
 	order: 3;
@@ -69,7 +74,8 @@ footer {
 	display: flex;
   align-items: center;
   justify-content: center;
-	background: hsla(250, 50%, 80%, .9);
+	background: #a2b5cd;
+	/*background: hsla(250, 50%, 80%, .9);*/
 	min-height: 60px;
 	padding: 1%;
 	min-width: 100%;
