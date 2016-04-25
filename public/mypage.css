@@ -51,7 +51,7 @@ nav {
 }
 article {
 	background: hsla(120, 50%, 50%, .9);
-	padding: 2%;
+	padding: 5%;
 	margin-left: 2%;
 	margin-right: 2%;
 	flex: 1;
@@ -78,9 +78,19 @@ footer {
 
 ul{
 	/*background: grey;*/
-	padding-left: 10%;
+	/*padding-left: 5%;*/
 	justify-content: center;
 	list-style-type: none;
 
 
+}
+
+script {
+	align-items: center;
+	justify-content: flex-end;
+}
+
+p{
+
+background-color: grey;
 }
