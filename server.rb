@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "go somewhere"
+  File.open('public/mypage.html')
 end

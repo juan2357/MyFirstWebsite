@@ -49,7 +49,7 @@ nav {
 	/*background: hsla(300, 60%, 20%, .9);*/
 	padding: 1%;
 	padding-top: 5%;
-	padding-left: 2.5%;
+	padding-left: 2.5Fr%;
 	width: 220px;
 	order: 1;
 }
@@ -100,4 +100,13 @@ script {
 p{
 
 background-color: grey;
+}
+
+a:link {
+	color: blue;
+	text-decoration: none;
+}
+
+a:visted {
+	color: purple;
 }
